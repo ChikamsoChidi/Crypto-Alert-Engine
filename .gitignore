@@ -1,0 +1,7 @@
+src\crypto_alerts\__pycache__
+src\crypto_alerts\config\__pycache__
+src\crypto_alerts\dispatcher\__pycache__
+src\crypto_alerts\engine\__pycache__
+src\crypto_alerts\feed\__pycache__
+src\crypto_alerts\models\__pycache__
+src\crypto_alerts\pipeline\__pycache__
